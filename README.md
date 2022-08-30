@@ -1,3 +1,3 @@
 # spring-boot
 
-This is the test appliction to learn githib actions 
+This is the test appliction to learn github actions 
